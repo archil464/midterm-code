@@ -1,5 +1,5 @@
-# 204131687706651528
-class QuadraticEquationSolver:
+# 5399168770668118808
+class QuadraticEquationSolver
     def __init__(self, a, b, c):
         self.a = a
         self.b = b
