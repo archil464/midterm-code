@@ -1,4 +1,4 @@
-# 80916879066616968
+# 32604168790672119388
 class QuadraticEquationSolver:
     def __init__(self, a, b, c):
         self.a = a
