@@ -1,4 +1,4 @@
-# 28690168812458819521
+# 291016881246489693
 class QuadraticEquationSolver:
     def __init__(self, a, b, c):
         self.a = a
@@ -8,7 +8,7 @@ class QuadraticEquationSolver:
     def solve(self):
         d = self.b ** 2 - 4 * self.a * self.c
 
-        if d <= 0: return []
+        if d < 0: return []
 
         if d == 0:
             return [-self.b / (2 * self.a)]
