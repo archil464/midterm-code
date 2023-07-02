@@ -1,4 +1,4 @@
-# 3989168826859416429
+# 114661688268609972
 from lib import QuadraticEquationSolver
 from pytest import approx, raises
 
